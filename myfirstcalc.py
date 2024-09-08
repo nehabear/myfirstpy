@@ -1,14 +1,4 @@
-git init
-
-git clone https://github.com/nehabear/myfirstpy
-
-cd myfirstpy
-
-git add .
-
-git commit -m "git is confusing tbh"
-
-git push
+# Remember to add the correct file extension when creating a new file! For python those are ".py" or ".ipynb" (python notebooks)
 
 firstnumber = input('input number pls: ');
 
