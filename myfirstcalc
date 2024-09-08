@@ -1,5 +1,7 @@
 git clone https://github.com/nehabear/myfirstpy
 
+cd myfirstpy
+
 git add .
 
 git commit -m "git is confusing tbh"
